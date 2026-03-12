@@ -79,7 +79,7 @@ export default function Home() {
             >
               <div className="relative w-full aspect-[4/5] rounded-[3rem] overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1615397323146-566085189736?auto=format&fit=crop&q=80&w=1200" 
+                  src="https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=1200" 
                   alt="Hero" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
